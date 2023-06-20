@@ -34,7 +34,7 @@ export default function Home () {
               <Link
                 target='_blank'
                 rel='noopener noreferrer'
-                href='blog.nvme0n1p.dev'
+                href='https://blog.nvme0n1p.dev'
                 className='hover:text-sky-700'
               >
                 <ruby>
