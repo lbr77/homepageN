@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {}
-const withYaml = require('next-plugin-yaml');
+const withYaml = require('next-plugin-yaml')
 
 module.exports = withYaml({
-    output: 'export',
-});
+  output: 'export',
+})

@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
-import wxImage from '../../public/img/wx.png'
-import zfbImage from '../../public/img/zfb.jpg'
+import wxImage from '@/app/img/wx.png'
+import zfbImage from '@/app/img/zfb.jpg'
 
 import config from '../config.yml';
 const sponsorship = config.sponsorship;
