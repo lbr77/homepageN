@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* cursor anime from Xecades.xyz start */
+#cursor {
+  position: fixed;
+  width: 16px;
+  height: 16px;
+  background: #000;
+  border-radius: 8px;
+  opacity: 0.25;
+  z-index: 10086;
+  pointer-events: none;
+  transition: 0.2s ease-in-out;
+  transition-property: background, opacity, transform;
+}
+
+#cursor.hidden {
+  opacity: 0;
+}
+
+#cursor.hover {
+  opacity: 0.1;
+  transform: scale(2.5);
+}
+
+#cursor.active {
+  opacity: 0.5;
+  transform: scale(0.5);
+}
+/* end cursor*/
+rt {
+  font-size: 0.75rem;
+  line-height: 1rem;
+}
+
+.avatar-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.w-40,
+.h-40 {
+  flex-shrink: 0;
+}
+body{
+  background: 
+    url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAACFJREFUeNpiZGBg4GegAsBlCD8TqSYNQg2Mo6FEBAAIMACdPABtrSW/IQAAAABJRU5ErkJggg==")
+}

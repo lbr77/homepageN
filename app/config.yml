@@ -1,0 +1,20 @@
+---
+contacts:
+  telegram: 'https://t.me/x88FFA277'
+  twitter: 'https://twitter.com/0x88FFA277'
+  github: 'https://github.com/lbr77'
+  bangumi: 'https://bgm.tv/user/lbr77'
+  steam: 'https://steamcommunity.com/id/stevelbr/'
+
+friends:
+  - name: Github
+    desc: Best website for programmers!
+    url: https://github.com
+  - name: twitter
+    desc: A good website for socializing
+    url: https://twitter.com
+
+sponsorship:
+  - name: 我自己
+    amount: 114514CNY
+    msg: 哼哼哼啊啊啊啊啊啊啊啊
