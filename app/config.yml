@@ -7,14 +7,12 @@ contacts:
   steam: 'https://steamcommunity.com/id/stevelbr/'
 
 friends:
-  - name: Github
-    desc: Best website for programmers!
-    url: https://github.com
-  - name: twitter
-    desc: A good website for socializing
-    url: https://twitter.com
+  - name: 等你
+    desc: 
+    url: 
+
 
 sponsorship:
-  - name: 我自己
-    amount: 114514CNY
-    msg: 哼哼哼啊啊啊啊啊啊啊啊
+  - name: 无
+    amount: 
+    msg: 
